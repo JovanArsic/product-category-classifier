@@ -6,7 +6,7 @@ Ovaj projekat predstavlja sistem mašinskog učenja koji automatski klasifikuje 
 
 Na primer:
 - "iPhone 7 32GB Gold" → Mobile Phones
-- "Bosch Serie 4 KGV39VL31G" → Fridge Freezers
+- "Bosch Serie 4 KGV39VL31G" → Dishwashes
 
 Cilj projekta je da se automatizuje proces kategorizacije proizvoda u e-commerce sistemima i smanji potreba za ručnim razvrstavanjem.
 
